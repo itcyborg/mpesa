@@ -1,0 +1,20 @@
+{
+    "name": "stacks/mpesa",
+    "description": "Mpesa Library",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "*",
+        "laravel/framework": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Stacks\\Mpesa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "itcyborg",
+            "email": "isaac.itcyborg@outlook.com"
+        }
+    ]
+}
