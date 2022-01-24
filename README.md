@@ -40,13 +40,3 @@
     
     //to  override the default, i.e in cases where you need validation, pass a third parameter 'Cancelled/Completed'
     $account->register($confirm_url,$validate_url,'Cancelled');
-    
-`
-
-
-
-
-We are currently investigating the issue and an update will be shared as soon as possible.
-
-Affected clients are advised to use our alternate entrypoint : **https://app.qoba.io**
-======================================================================================
